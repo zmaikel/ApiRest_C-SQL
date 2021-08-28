@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoFinal_ApiRest", "ProyectoFinal_ApiRest\ProyectoFinal_ApiRest.csproj", "{C757EDB8-473F-41E1-A107-38818EF46F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{E72EEE12-DBDD-4BDD-ACDF-DD5B31C119DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C757EDB8-473F-41E1-A107-38818EF46F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C757EDB8-473F-41E1-A107-38818EF46F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C757EDB8-473F-41E1-A107-38818EF46F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C757EDB8-473F-41E1-A107-38818EF46F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72EEE12-DBDD-4BDD-ACDF-DD5B31C119DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72EEE12-DBDD-4BDD-ACDF-DD5B31C119DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72EEE12-DBDD-4BDD-ACDF-DD5B31C119DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72EEE12-DBDD-4BDD-ACDF-DD5B31C119DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE3A9617-1E20-4883-AD1A-9AE546624680}
+	EndGlobalSection
+EndGlobal
