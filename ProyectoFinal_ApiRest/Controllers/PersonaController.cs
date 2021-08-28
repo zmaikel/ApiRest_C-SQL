@@ -48,7 +48,7 @@ namespace ProyectoFinal_ApiRest.Controllers
         {
             
             double tipoCambio = 0;
-            string[] Pametros = { "318", fecha, "29/12/2021", "Maikel", "N", "maikelzamora4@gmail.com", "3AMAG2PLIA" };
+            string[] Pametros = { "318", fecha, "29/12/2021", "Nombre", "N", "correoelectronico", "tokenRecibido" };
 
             string sSoap =
                 String.Format(
